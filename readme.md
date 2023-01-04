@@ -1,5 +1,5 @@
 <h1>Estudos de Lógica Basica</h1> 
-<img src=https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange>
+<img src=https://img.shields.io/badge/Status-Finalizado-green>
 
 ### Nesse momento, para visualizar esse projeto em sua máquina:
 1. Obtenha um leitor de código compativel com as linguagens HTML, CSS e JS
