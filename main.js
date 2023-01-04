@@ -1,3 +1,5 @@
+//funcionalidade para aplicar interações do usuario
+
 function tocaSom(idTagAudio){
    const elemento = document.querySelector(idTagAudio);
     if(elemento != null && elemento.localName === 'audio'){
