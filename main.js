@@ -32,10 +32,6 @@ for(let contador = 0;contador<listaDeTeclas.length; contador++){
 
 }
 
-
-
-
-
 //enquanto -> poderia ter sido utilizado no lugar do for
 /*while(contador < listaDeTeclas.length){
     const tecla  = listaDeTeclas[contador];
